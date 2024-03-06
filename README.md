@@ -1,1 +1,1 @@
-Back-end section of the smart-brain app
+Back-end section of the Smart Brain app.
